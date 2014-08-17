@@ -7,14 +7,14 @@ My favorite one is ir_black.
 
 If you are using Pathogen, 
 
-  cd ~/.vim/bundle
-  git clone https://github.com/luckydev/150colors.git 150colors
+    cd ~/.vim/bundle
+    git clone https://github.com/luckydev/150colors.git 150colors
 
 Or just do this:
 
-  cd ~
-  git clone https://github.com/luckydev/150colors.git 
-  cp ~/150colors/colors/* ~/.vim/colors/
+    cd ~
+    git clone https://github.com/luckydev/150colors.git 
+    cp ~/150colors/colors/* ~/.vim/colors/
 
 Create the `colors/` directory inside ~/.vim/ if it doesn't exist.
 
